@@ -9,5 +9,3 @@
 
 
 
-scp root@69.62.79.121:/home/linkedin_project/project/data.csv /Users/nghilethanh/Project/UPWORK-LinkedIn-Data-Scraper-Needed/
-Bholu@1997!
