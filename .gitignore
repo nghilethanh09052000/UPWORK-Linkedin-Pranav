@@ -1,0 +1,10 @@
+.venv
+/image_crawler/download/*
+.node_modules
+download
+.node_modules
+.env
+
+/*.csv
+project/results.csv
+project/uk_links_only.csv
